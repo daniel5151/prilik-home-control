@@ -1,5 +1,12 @@
 # prilik-home-control
 
+**UPDATE (16/07/23):** So I finally tried Home Assistant, and yeah... there's
+no good reason to roll-your-own version (outside of technical curiosity). I'm
+mothballing this repo for now. Do yourself a favor, and just set up Home
+Assistant. It's _awesome_.
+
+* * *
+
 A shoddy little app/lib to do misc smart home stuff on the hodge-podge
 collection of devices I own.
 
